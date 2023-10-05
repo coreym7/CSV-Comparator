@@ -21,4 +21,4 @@ The initial script had some issues - the output file was longer than expected, e
 By implementing this Python script, the client was able to automate a time-consuming task, resulting in improved efficiency and accuracy in their data handling. 
 
 ## Note
-Please note that the specific script cannot be shared due to confidentiality agreements. However, the detailed description of the problem, strategy, and implementation provides a clear picture of the project's scope and my approach to problem-solving.
+Please note that the specific script has been generalized to an extend to be able to share the logic of the code. 
